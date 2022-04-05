@@ -9,13 +9,5 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Hola mi nombre es Jesus Uriel tengo 24 años estudie Ingenieria en Sistemas Computacionales , me gusta la programacion desde hace 1 año y medio te contare un poco de mi historia cuando recien me gradue intente emprender lo cual me salio fatal, y para conseguir un trabajo de lo que estudie me resulto dificil ya que no sali muy bien preparado de conocimientos si lo acepto fue mi culpa. termine trabajando de otra cosa hasta hace 1 año y medio que decubri plataformas como Udemy, Platzi y Ahora InovaccionVirtual donde aprendi HTML, CSS, Javascript, React, Redux, SASS, Tailwind y aprendi o mas bien sigo aprendiendo Ingles . actualmente estoy aprendiendo VUE y participo en la Mission BackEnd de InovaccionVirtual(LaunchX)  impartida por el MC Carlo. si, lo se mi historia no es para nada emocionante pero desde que conoci esas plataformas decidi que queria cambiar mi futuro.
+## !Gracias por Leer¡
